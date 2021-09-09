@@ -1,4 +1,5 @@
 - 👋 Hi, hope this finds you well! 
+
    I've worked on web and software developer in the past so I can certainly help you with my skills.
 
 🌱🌱 A little more about me...
