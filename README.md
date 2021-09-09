@@ -15,7 +15,9 @@
     Clear, frequent, honest communication and delivering high quality, clean, documented and scalable code on time has allowed me to grow my consulting practice.
     
 👀 I’m interested in new techniques recently released.
+
 🌱 I’m currently learning the Blockchain technology, and AI technology.
+
 💞️ I’m looking to collaborate on your project whatever it is.
 
 📫 Please feel free to contact me to discuss more about further projects.
