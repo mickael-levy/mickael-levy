@@ -17,19 +17,34 @@
     
 👀 My stacks are here and am interested in new techniques recently released.
 
-• HTML, CSS
+• HTML, CSS, JavaScript, Typescript, ECMAScript
+
+• Bootstrap, Tailwind CSS
+
 • React, Redux, Redux-Saga/Thunk, MobX, Flux, React Hooks, Next.js
+
 • Vue.js, Vue-Router, Vue-CLI, Vue-Loader, Vuex, Vuetify, Quasar, Nuxt.js
+
 • Angular, AngularJS, Ngx-Chart, Angular-CLI.
+
 • React Native, Flutter, Ionic
+
 • ECMAScript 2015+, CoffeeScript, JQuery, JQueryUI, CreateJs, BackboneJs, VanilaJs, InteractJs.
+
 • SASS, LESS, CSS Modules, Styled-Components, Glamour, Storybook.
+
 • Webpack, Npm, Yarn, Node.js, Gulp, Jspm, Browserify.
+
 • D3.js, Highcharts, Recharts, Ramda, Immutable.js.
+
 • Monorepo Approach, Micro Frontends, Lerna.
+
 • Jest, Mocha, Karma, Sinon, Protractor.
+
 • Eslint, Prettier.
+
 • Heroku, Travis, Firebase.
+
 
 🌱 I’m currently learning the Blockchain technology, and AI technology.
 
