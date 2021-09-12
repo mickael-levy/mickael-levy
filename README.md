@@ -2,7 +2,7 @@
 
    I've worked on web and software developer in the past so I can certainly help you with my skills.
 
-🌱🌱 A little more about me...
+<h3>🌱🌱 A little more about me...</h3>
 
    I'm a Italy based full stack developer with 10 years of experience. 
    I've been building websites since 2012 and mobile apps, iOS and Android, for 4 years now. 
@@ -15,7 +15,7 @@
    I take pride in my work and hold myself to the highest professional standards. 
    Clear, frequent, honest communication and delivering high quality, clean, documented and scalable code on time has allowed me to grow my consulting practice.
     
-👀 My stacks are here and am interested in new techniques recently released.
+<h2>👀 My stacks are here and am interested in new techniques recently released.</h2>
 
 • HTML, CSS, JavaScript, Typescript, ECMAScript
 
@@ -46,11 +46,10 @@
 • Heroku, Travis, Firebase.
 
 
-🌱 I’m currently learning the Blockchain technology, and AI technology.
+<h2🌱 I’m currently learning the Blockchain technology, and AI technology.</h2>
+<h2>💞️ I’m looking to collaborate on your project whatever it is.</h2>
 
-💞️ I’m looking to collaborate on your project whatever it is.
-
-📫 Please feel free to contact me to discuss more about further projects.
+<h2>📫 Please feel free to contact me to discuss more about further projects.</h2>
 
 <!---
 mickael-levy/mickael-levy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
