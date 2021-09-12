@@ -4,16 +4,16 @@
 
 🌱🌱 A little more about me...
 
-    I'm a Italy based full stack developer with 10 years of experience. 
-    I've been building websites since 2012 and mobile apps, iOS and Android, for 4 years now. 
-    I've built tech for large companies like K Systems Ltd and NOVAXLESS TECHNOLOGY. 
-    So I have a lot of experience working with preexisting code under tight deadlines.
+   I'm a Italy based full stack developer with 10 years of experience. 
+   I've been building websites since 2012 and mobile apps, iOS and Android, for 4 years now. 
+   I've built tech for large companies like K Systems Ltd and NOVAXLESS TECHNOLOGY. 
+   So I have a lot of experience working with preexisting code under tight deadlines.
 
-    Almost 20 years of development means that I've seen most problems and bugs. 
-    Allowing me to prevent issues before they happen and fix the ones that do much faster than a less experienced developer.
+   Almost 20 years of development means that I've seen most problems and bugs. 
+   Allowing me to prevent issues before they happen and fix the ones that do much faster than a less experienced developer.
 
-    I take pride in my work and hold myself to the highest professional standards. 
-    Clear, frequent, honest communication and delivering high quality, clean, documented and scalable code on time has allowed me to grow my consulting practice.
+   I take pride in my work and hold myself to the highest professional standards. 
+   Clear, frequent, honest communication and delivering high quality, clean, documented and scalable code on time has allowed me to grow my consulting practice.
     
 👀 I’m interested in new techniques recently released.
 
