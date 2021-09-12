@@ -46,7 +46,7 @@
 • Heroku, Travis, Firebase.
 
 
-<h2🌱 I’m currently learning the Blockchain technology, and AI technology.</h2>
+<h2>🌱 I’m currently learning the Blockchain technology, and AI technology.</h2>
 <h2>💞️ I’m looking to collaborate on your project whatever it is.</h2>
 
 <h2>📫 Please feel free to contact me to discuss more about further projects.</h2>
